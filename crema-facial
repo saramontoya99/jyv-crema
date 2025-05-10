@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JYV Crema</title>
+</head>
+<body>
+    <!-- Enlace a la sección de compra -->
+    <a href="#compra">Ir a la sección de compra</a>
+
+    <!-- Contenido principal de la página -->
+    <div id="bienvenida">
+        <h1>Bienvenidos a JYV Crema</h1>
+        <p>Descubre nuestros productos de calidad.</p>
+    </div>
+
+    <!-- Sección de compra -->
+    <div id="compra">
+        <h2>Compra nuestra crema</h2>
+        <p>Realiza tu pedido aquí.</p>
+        <!-- Puedes agregar más contenido relacionado con la compra -->
+    </div>
+
+</body>
+</html>
